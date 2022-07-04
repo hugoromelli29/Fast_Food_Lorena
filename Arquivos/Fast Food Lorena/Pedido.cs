@@ -10,7 +10,16 @@ namespace fastfood
     {
         public Cliente Cliente { get; set; }
         public string Codigo { get; set; }
-        public double Valor { get; set; }
+        private double valor;
+        public double Valor
+        {
+            get { return valor; }
+            set
+            {
+                if (value <= 0) return;
+                else valor = value;
+            }
+        }
         public string Itens { get; set; }
         public void ExibirPedido()
         {
