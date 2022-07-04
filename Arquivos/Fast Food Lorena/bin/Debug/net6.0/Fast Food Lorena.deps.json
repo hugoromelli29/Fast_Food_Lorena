@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fast Food Lorena/1.0.0": {
+        "runtime": {
+          "Fast Food Lorena.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fast Food Lorena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
