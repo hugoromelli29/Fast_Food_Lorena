@@ -6,7 +6,7 @@ cliente1.Endereco = "R. Palmares, 175";
 
 Pedido lanche1 = new("001");
 lanche1.Cliente = cliente1;
-lanche1.Valor = 15.90;
+lanche1.Valor = 12.90;
 lanche1.Itens = "Cheddar, Bacon, Salada";
 
 Pedido lanche2 = new("002");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hugo\\Desktop\\Fast Food Lorena\\Fast Food Lorena\\Fast Food Lorena.csproj": {}
+    "C:\\Users\\Hugo\\Desktop\\lorena\\Arquivos\\Fast Food Lorena\\Fast Food Lorena.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hugo\\Desktop\\Fast Food Lorena\\Fast Food Lorena\\Fast Food Lorena.csproj": {
+    "C:\\Users\\Hugo\\Desktop\\lorena\\Arquivos\\Fast Food Lorena\\Fast Food Lorena.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\Fast Food Lorena\\Fast Food Lorena\\Fast Food Lorena.csproj",
+        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\lorena\\Arquivos\\Fast Food Lorena\\Fast Food Lorena.csproj",
         "projectName": "Fast Food Lorena",
-        "projectPath": "C:\\Users\\Hugo\\Desktop\\Fast Food Lorena\\Fast Food Lorena\\Fast Food Lorena.csproj",
+        "projectPath": "C:\\Users\\Hugo\\Desktop\\lorena\\Arquivos\\Fast Food Lorena\\Fast Food Lorena.csproj",
         "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hugo\\Desktop\\Fast Food Lorena\\Fast Food Lorena\\obj\\",
+        "outputPath": "C:\\Users\\Hugo\\Desktop\\lorena\\Arquivos\\Fast Food Lorena\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",

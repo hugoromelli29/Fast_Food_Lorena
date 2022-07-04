@@ -13,3 +13,18 @@ C:\Users\Hugo\Desktop\Fast Food Lorena\Fast Food Lorena\obj\Debug\net6.0\refint\
 C:\Users\Hugo\Desktop\Fast Food Lorena\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.pdb
 C:\Users\Hugo\Desktop\Fast Food Lorena\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.genruntimeconfig.cache
 C:\Users\Hugo\Desktop\Fast Food Lorena\Fast Food Lorena\obj\Debug\net6.0\ref\Fast Food Lorena.dll
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\bin\Debug\net6.0\Fast Food Lorena.exe
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\bin\Debug\net6.0\Fast Food Lorena.deps.json
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\bin\Debug\net6.0\Fast Food Lorena.runtimeconfig.json
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\bin\Debug\net6.0\Fast Food Lorena.dll
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\bin\Debug\net6.0\Fast Food Lorena.pdb
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.dll
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\refint\Fast Food Lorena.dll
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.pdb
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\Fast Food Lorena.genruntimeconfig.cache
+C:\Users\Hugo\Desktop\lorena\Arquivos\Fast Food Lorena\obj\Debug\net6.0\ref\Fast Food Lorena.dll
